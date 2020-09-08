@@ -20,12 +20,21 @@
 
 title: All Things Cloud Native
 email: cloudnativetech@gmail.com
+tagline: All Things Cloud Native
 description: >- # this means to ignore newlines until "baseurl:"
   All Things Cloud Native.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cloudnativetech
 github_username:  cloudnative-tech
+
+author: coolsvap
+
+google_analytics: UA-79391517-2
+
+twitter:
+  username: cloudnativetech
+  card: summary
 
 # Build settings
 theme: minima
