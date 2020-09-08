@@ -3,7 +3,7 @@ layout: post
 title:  "My First Post with Jekyll and Github Repo!"
 date:   2020-09-08 17:50:01 +0530
 categories: update github jekyll
-tags: general
+author: Swapnil Kulkarni
 ---
 
 # My First Post with Jekyll and Github Repo!
