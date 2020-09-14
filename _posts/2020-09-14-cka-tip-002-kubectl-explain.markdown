@@ -24,9 +24,10 @@ and what does the Deploymentstrategy do again?
 `kubectl explain pod.spec.containers`
 
 
-So whenever in exam like [CKA][3]/[CKAD][4] you are not sure about what spec a particular resource has or what fields it has you can use `kubectl explain`
+So whenever in exam like [CKA][3]/[CKAD][4], though you have access to Kubernetes [Documentation][5] but if you are not sure about what spec a particular resource has or what fields it has you can use `kubectl explain`, it is the much faster than searching through docs.
 
 [1]: https://kubernetes.io/docs/reference/kubectl/overview/
 [2]: https://kubernetes.io/
 [3]: https://www.cncf.io/certification/cka/
 [4]: https://www.cncf.io/certification/ckad/
+[5]: https://kubernetes.io/docs/
