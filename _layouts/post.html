@@ -12,7 +12,7 @@ layout: default
       </time>
       {%- if page.author -%}
         {% assign member = site.data.members[page.author] %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ member.name }}</span></span> <a href="https://twitter.com/{{ member.twitter }}"><svg class="svg-icon"><use xlink:href="/blog/assets/minima-social-icons.svg#twitter"></use></svg></a><a href="https://linkedin.com/in/{{ member.linkedin }}"> <svg class="svg-icon"><use xlink:href="/blog/assets/minima-social-icons.svg#linkedin"></use></svg> </a>
+      • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ member.name }}</span></span> <a href="https://twitter.com/{{ member.twitter }}"><svg class="svg-icon"><use xlink:href="/blog/assets/minima-social-icons.svg#twitter"></use></svg></a><a href="https://linkedin.com/in/{{ member.linkedin }}"> <svg class="svg-icon"><use xlink:href="/blog/assets/minima-social-icons.svg#linkedin"></use></svg> </a>  {% include read_time.html content=content %}
       {%- endif -%}</p>
 
       <div class="post-categories">
