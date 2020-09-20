@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Building Non-root images"
+title:  "Building non root container images"
 date:   2020-09-20 17:50:01 +0530
 categories: Docker Tips
 author: askashuk
-permalink: /docker-001-building-non-root-images
+permalink: /docker-001-building-non-root-container-images
 ---
 With ever growing increase in using containerized workloads for deployment, the security of the workload has to come under similar purview and release managers are looking at fine grained security controls for their latest type of build and runnable artifacts, the container images. By default, most container images built earlier had root as the default user and the root user in a containr is same as root use in host machine, there by creating a privileged container or a privileged escalation. If not monitored the application running as root can gain access to the host with the same root user. The same applies to your network access, storage access and hence forth.
 
-Lets have a look at our very popular nginx image on Docker Hub.
+Lets have a look at our very popular [nginx][2] image on [Docker Hub][1].
 
 ```
 # docker run -it nginx bash
@@ -112,4 +112,7 @@ Reading package lists... Done
 E: List directory /var/lib/apt/lists/partial is missing. - Acquire (13: Permission denied)
 ```
 
-Simple isn't it? Try it for your Container images and let us know your feedback.
+`nginx` usr doesn't have privileges as `root`, simple isn't it? Try it for your Container images and let us know your feedback.
+
+[1]: https://hub.docker.com/
+[2]: https://hub.docker.com/_/nginx
