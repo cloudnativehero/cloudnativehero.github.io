@@ -12,4 +12,4 @@ Here's the [slide deck][2] I used for the same.
 
 [0]: https://www.dietms.org/
 [1]: https://www.linkedin.com/in/sanjay-kalyankar-524a485/
-[2]: https://github.com/cloudnative-tech/presentations/raw/master/2020/09/DIEMS-Session-What%E2%80%99s%20Next%20with%20Cloud.pdf
+[2]: https://github.com/cloudnative-tech/presentations/blob/master/2020/09/DIEMS-Session-Whats-Next-with-Cloud.pdf
