@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A session on Cloud Computing at DITEMS, Aurangabad"
+title:  "A session on Cloud Computing at DIETMS, Aurangabad"
 date:   2020-09-30 12:50:01 +0530
 categories: General
 author: coolsvap
@@ -12,4 +12,4 @@ Here's the [slide deck][2] I used for the same.
 
 [0]: https://www.dietms.org/
 [1]: https://www.linkedin.com/in/sanjay-kalyankar-524a485/
-[2]: https://github.com/cloudnative-tech/presentations/blob/master/2020/09/DIEMS-Session-Whats-Next-with-Cloud.pdf
+[2]: https://github.com/cloudnative-tech/presentations/raw/master/2020/09/DIETMS-Session-Whats-Next-with-Cloud.pdf
