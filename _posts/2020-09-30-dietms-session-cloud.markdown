@@ -6,7 +6,7 @@ categories: General
 author: coolsvap
 ---
 
-As part trying to stay connected with alumni and sharing technology trends with graduate I usually try to seize any opportunity I get. I was invited by my college professor Mr. [Sanjay Kalyankar] [1] for such an opportunity at [DIETMS, Auragabad][0]. I did try to present some basics about cloud computing and some technology trends they should look out for. 
+As part trying to stay connected with alumni and sharing technology trends with graduate I usually try to seize any opportunity I get. I was invited by my college professor Mr. [Sanjay Kalyankar] [1] for such an opportunity at [DIETMS, Auragabad][0]. I did try to present some basics about cloud computing, as a service model, cloud providers, public/private/hybrid clouds, getting access to free-tier for your project and some technology trends they should look out for. 
 
 Here's the [slide deck][2] I used for the same.
 
