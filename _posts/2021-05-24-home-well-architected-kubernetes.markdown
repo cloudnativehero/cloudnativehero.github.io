@@ -24,7 +24,10 @@ Two factors are primarily important in any containerization initiative.
 1. How the container images are managed?
 2. How the operations on the container images are managed?
 
-
+The operational excellence with Kubernetes can be categorized in three major categories
+1. Excellence with operating Kubernetes Infrastructure
+2. Excellence with operating the Kubernets platform
+3. Excellence with Operating the applications deployed on Kubernetes
 </p>
 
 </details>
