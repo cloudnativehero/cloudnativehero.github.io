@@ -17,6 +17,16 @@ I will try to organize the posts in this series in the pillars as defined within
 
 <details> 
 <summary> Operational excellence</summary>
+<p> Operational Excellence include ability to ease overall operations for any workload. It can include but not limited to depoyment automation, upgrade/rollbacks, observability, insights etc. Following are some of the recommendations for operational excellence with Kubernetes. 
+
+Two factors are primarily important in any containerization initiative.
+
+1. How the container images are managed?
+2. How the operations on the container images are managed?
+
+
+</p>
+
 </details>
 <details> 
 <summary> Security</summary>
