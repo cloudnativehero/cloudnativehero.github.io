@@ -1,6 +1,6 @@
 # List of Published Blogs
 
-
+- [Well Architected Kubernetes - Objects](https://cloudnative-tech.github.io/blog/well-architected-kubernetes-objects-001)
 - [Well Architected Kubernetes](https://cloudnative-tech.github.io/blog/well-architected-kubernetes-home)
 - [A session on Cloud Computing at DIETMS, Aurangabad](https://cloudnative-tech.github.io/blog/2020-dietms-session)
 - [Building non root container images](https://cloudnative-tech.github.io/blog/docker-001-building-non-root-container-images)
