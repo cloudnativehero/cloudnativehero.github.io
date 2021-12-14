@@ -10,9 +10,9 @@ Well versed in the different public, private hybrid cloud implementation modes, 
 
 Swapnil is currently employed with [Nuance Communications][5] as a Principal Cloud Architect, helping different products in cloud native implementations, digital transformation and internal training.  You can follow me at my social media handles below or reach out to me at my [mail][4]
 
-[LinkedIn](https://linkedin.com/in/coolsvap)
+[LinkedIn](https://linkedin.com/in/MeSwapnilK)
 
-[Twitter](https://twitter.com/coolsvap)
+[Twitter](https://twitter.com/MeSwapnilK)
 
 [GitHub](https://github.com/coolsvap)
 
