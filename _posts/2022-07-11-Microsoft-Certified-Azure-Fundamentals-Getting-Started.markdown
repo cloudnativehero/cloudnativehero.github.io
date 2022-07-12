@@ -14,6 +14,8 @@ In the following posts we will discuss in detail related to each topic related t
 
 Happy Learning!
 
-Last Post | Next Post
+Last Post - None
+
+Next Post - [Microsoft Certified Azure Fundamentals Getting Started](https://cloudnativehero.github.io/blog/2022/07/11/Microsoft-Certified-Azure-Fundamentals-Getting-Started.html)
 
 [LinkedIn](https://www.linkedin.com/company/cloudnativehero/) | [Twitter](https://twitter.com/cloudnativehero) | [GitHub](https://github.com/cloudnativehero/AZ-900-Prep) | [Blog](https://cloudnativehero.github.io/blog/)
