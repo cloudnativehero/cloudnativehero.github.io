@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Microsoft Certified Azure Administrator Associate - Getting Started"
+date:   2022-07-12 00:00:00 +0530
+categories: microsoft azure certification
+author: coolsvap
+permalink: /Microsoft-Certified-Azure-Administrator-Getting-Started
+---
 # Microsoft Certified Azure Administrator Associate - Getting Started
 
 [Exam AZ-104: Microsoft Azure Administrator](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) exam is a part of requirements for [Microsoft Certified: Azure Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/)
@@ -20,8 +28,8 @@ Refer to the [study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/bi
 
 Happy Learning!
 
-Last Post - [Microsoft Certified Azure Fundamentals Getting Started](https://cloudnativehero.github.io/blog/2022/07/11/Microsoft-Certified-Azure-Fundamentals-Getting-Started.html)
+Last Post - [Microsoft Certified Azure Fundamentals Getting Started](https://cloudnativehero.github.io/blog/Microsoft-Certified-Azure-Fundamentals-Getting-Started)
 
-Next Post - TBD
+Next Post - [Microsoft Certified Azure Developer Associate Getting Started](https://cloudnativehero.github.io/blog/Microsoft-Certified-Azure-Developer-Getting-Started)
 
 [LinkedIn](https://www.linkedin.com/company/cloudnativehero/) | [Twitter](https://twitter.com/cloudnativehero) | [GitHub](https://github.com/cloudnativehero/AZ-104-Prep) | [Blog](https://cloudnativehero.github.io/blog/)

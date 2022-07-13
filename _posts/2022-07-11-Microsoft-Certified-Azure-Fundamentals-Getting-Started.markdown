@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Microsoft Certified Azure Fundamentals - Getting Started"
+date:   2022-07-11 00:00:00 +0530
+categories: microsoft azure certification
+author: coolsvap
+permalink: /Microsoft-Certified-Azure-Fundamentals-Getting-Started
+---
+
 # Microsoft Certified Azure Fundamentals - Getting Started
 
 [AZ-900 Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) exam part of the requirements for [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/).
@@ -16,6 +25,6 @@ Happy Learning!
 
 Last Post - None
 
-Next Post - [Microsoft Certified Azure Administrator Associate Getting Started](https://cloudnativehero.github.io/blog/2022/07/12/Microsoft-Certified-Azure-Administrator-Associate-Getting-Started.html)
+Next Post - [Microsoft Certified Azure Administrator Associate Getting Started](https://cloudnativehero.github.io/blog/Microsoft-Certified-Azure-Administrator-Getting-Started)
 
 [LinkedIn](https://www.linkedin.com/company/cloudnativehero/) | [Twitter](https://twitter.com/cloudnativehero) | [GitHub](https://github.com/cloudnativehero/AZ-900-Prep) | [Blog](https://cloudnativehero.github.io/blog/)

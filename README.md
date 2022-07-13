@@ -1,4 +1,5 @@
 # List of Published Blogs
+- [Microsoft Certified Azure Developer Associate Getting Started](https://cloudnativehero.github.io/blog/Microsoft-Certified-Azure-Developer-Getting-Started)
 -  [Microsoft Certified Azure Administrator Associate Getting Started](https://cloudnativehero.github.io/blog/2022/07/12/Microsoft-Certified-Azure-Administrator-Associate-Getting-Started.html)
 - [Microsoft Certified Azure Fundamentals Getting Started](https://cloudnativehero.github.io/blog/2022/07/11/Microsoft-Certified-Azure-Fundamentals-Getting-Started.html)
 - [Well Architected Kubernetes - Objects](https://cloudnativehero.github.io/blog/well-architected-kubernetes-objects-001)
