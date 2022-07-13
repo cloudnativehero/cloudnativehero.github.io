@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: All Things Cloud Native
+title: Cloud Native Hero!
 email: cloudnativetech@gmail.com
 tagline: All Things Cloud Native
 description: >- # this means to ignore newlines until "baseurl:"
   All Things Cloud Native.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://cloudnative-tech.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: cloudnativetech
-github_username:  cloudnative-tech
+url: "https://cloudnativehero.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: cloudnativehero
+github_username:  cloudnativehero
 
 author: Swapnil Kulkarni
 disqus:
