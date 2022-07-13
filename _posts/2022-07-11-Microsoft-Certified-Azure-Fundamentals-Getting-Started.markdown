@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Microsoft Certified Azure Fundamentals - Getting Started"
-date:   2022-07-11 00:00:00 +0530
+date:   2022-07-11 01:00:00 +0530
 categories: microsoft azure certification
 author: coolsvap
 permalink: /Microsoft-Certified-Azure-Fundamentals-Getting-Started

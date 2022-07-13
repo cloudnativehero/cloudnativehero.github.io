@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Microsoft Certified Azure Administrator Associate - Getting Started"
-date:   2022-07-12 00:00:00 +0530
+date:   2022-07-12 01:00:00 +0530
 categories: microsoft azure certification
 author: coolsvap
 permalink: /Microsoft-Certified-Azure-Administrator-Getting-Started
