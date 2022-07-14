@@ -9,9 +9,9 @@ permalink: /AZ-900-Understanding-the-Azure-Core-Concepts
 ### Understanding the Azure Core Concepts
 -------------------------------------
 
-Lets start with a 45-minute module to understand [Core Azure Concepts](https://docs.microsoft.com/en-us/alearn/paths/az-900-describe-cloud-concepts/)
+Lets start with a 45-minute part to understand [Core Azure Concepts](https://docs.microsoft.com/en-us/alearn/paths/az-900-describe-cloud-concepts/)
 
-This module will help learners understand,
+This part will help learners understand,
 
 *   Understand the benefits of cloud computing in Azure and how it can save you time and money
 *   Explain cloud concepts such as high availability, scalability, elasticity, agility, and disaster recovery
@@ -20,11 +20,11 @@ This module will help learners understand,
 
 [Introduction](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/introduction), will walk you through cloud computing fundamentals, azure fundamentals and domain areas for AZ 900 preparation.
 
-The next part will walk you through about what is [Cloud computing](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing)
+The next unit will walk you through about what is [Cloud computing](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing)
 
-The next two parts provide information about [Microsoft Azure](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-microsoft-azure) and [Azure Services](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/tour-of-azure-services) and guide you to create your own [Azure Account](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/get-started-with-azure-accounts)
+The next two units provide information about [Microsoft Azure](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-microsoft-azure) and [Azure Services](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/tour-of-azure-services) and guide you to create your own [Azure Account](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/get-started-with-azure-accounts)
 
-The next part of the module introduces a [case study](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/case-study-introduction) of [Tailwind Traders](https://www.tailwindtraders.com/) to help understand requirements for cloud and will be used throughout the course to map the concepts to Azure resources. 
+The next unit of the module introduces a [case study](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/case-study-introduction) of [Tailwind Traders](https://www.tailwindtraders.com/) to help understand requirements for cloud and will be used throughout the course to map the concepts to Azure resources. 
 
 The module finishes with a [Knowledge Check](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/knowledge-check) and [Summary](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/summary) of things learned.
 
