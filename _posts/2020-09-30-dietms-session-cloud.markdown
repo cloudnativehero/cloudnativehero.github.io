@@ -2,7 +2,7 @@
 layout: post
 title:  "A session on Cloud Computing at DIETMS, Aurangabad"
 date:   2020-09-30 12:50:01 +0530
-categories: General
+categories: general
 author: coolsvap
 permalink: /2020-dietms-session
 ---
