@@ -2,7 +2,7 @@
 layout: post
 title:  "Building non root container images"
 date:   2020-09-20 17:50:01 +0530
-categories: Docker Tips
+categories: docker tips
 author: askashuk
 permalink: /docker-001-building-non-root-container-images
 ---

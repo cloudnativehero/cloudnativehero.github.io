@@ -2,7 +2,7 @@
 layout: post
 title:  "CKA Tips - 001 Enable Kubectl Completion"
 date:   2020-09-09 17:50:01 +0530
-categories: Kubernetes CKA Tips
+categories: kubernetes cka tips
 author: coolsvap
 permalink: /cka-tip-001-kubectl-completion
 ---

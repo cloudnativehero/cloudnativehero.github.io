@@ -2,8 +2,7 @@
 layout: post
 title:  "Well Architected Kubernetes - Objects"
 date:   2021-05-24 10:50:01 +0530
-categories: Kubernetes Architecture
-tags: ["Kubernetes", "Architecture"]
+categories: kubernetes architecture
 author: coolsvap
 permalink: /well-architected-kubernetes-objects-001
 ---
