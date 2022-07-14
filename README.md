@@ -1,4 +1,5 @@
 # List of Published Blogs
+- [Understanding the Azure Core Concepts](https://cloudnativehero.github.io/blog/AZ-900-Understanding-the-Azure-Core-Concepts)
 - [Microsoft Certified Azure Developer Associate Getting Started](https://cloudnativehero.github.io/blog/Microsoft-Certified-Azure-Developer-Getting-Started)
 -  [Microsoft Certified Azure Administrator Associate Getting Started](https://cloudnativehero.github.io/blog/2022/07/12/Microsoft-Certified-Azure-Administrator-Associate-Getting-Started.html)
 - [Microsoft Certified Azure Fundamentals Getting Started](https://cloudnativehero.github.io/blog/2022/07/11/Microsoft-Certified-Azure-Fundamentals-Getting-Started.html)
