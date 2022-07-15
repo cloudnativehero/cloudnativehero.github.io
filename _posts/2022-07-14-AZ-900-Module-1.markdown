@@ -34,6 +34,6 @@ Happy Learning!
 
 Last Post - [Microsoft Certified Azure Developer Associate Getting Started](https://cloudnativehero.github.io/blog/Microsoft-Certified-Azure-Developer-Getting-Started)
 
-Next Post - TBD
+Next Post - [AZ 900 Azure Fundamental & Architectural Concepts](https://cloudnativehero.github.io/blog/AZ-900-Azure-Fundamental-And-Architectural-Concepts)
 
 [**LinkedIn**](https://www.linkedin.com/company/cloudnativehero/) | [**Twitter**](https://twitter.com/cloudnativehero) | [**GitHub**](https://github.com/cloudnativehero/AZ-104-Prep) | [**Blog**](https://cloudnativehero.github.io/blog/)
