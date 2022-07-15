@@ -32,7 +32,9 @@ author: Swapnil Kulkarni
 disqus:
   shortname: cloudnativehero-blog
 
-google_analytics: UA-79391517-2
+google_tracking_id: G-Z3E2EMPQ54
+google_ad_client: ca-pub-8414435024594367
+
 
 # Build settings
 theme: minima
