@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AZ 900 Azure Fundamental & Architectural Concepts"
-date:   2022-07-13 01:00:00 +0530
+date:   2022-07-15 01:00:00 +0530
 categories: microsoft azure certification
 author: coolsvap
 permalink: /AZ-900-Azure-Fundamental-And-Architectural-Concepts
