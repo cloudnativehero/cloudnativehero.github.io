@@ -2,7 +2,7 @@
 layout: post
 title:  "Cloud Native Hero Newsletter Weekly Digest (Week 1 - July 11 - July 15)"
 date:   2022-07-15 01:00:00 +0530
-categories: microsoft azure certification
+categories: digest
 author: coolsvap
 permalink: /cloud-native-hero-weekly-digest-week-1
 ---
@@ -10,16 +10,16 @@ permalink: /cloud-native-hero-weekly-digest-week-1
 
 ### Articles Published
 
-* [Microsoft Certified Azure Fundamentals | LinkedIn](https://www.linkedin.com/pulse/microsoft-certified-azure-fundamentals-swapnil-kulkarni/)
-* [Microsoft Certified Azure Administrator Associate | LinkedIn](https://www.linkedin.com/pulse/microsoft-certified-azure-administrator-associate-swapnil-kulkarni/)
-* [Microsoft Certified Azure Developer Associate | LinkedIn](https://www.linkedin.com/pulse/microsoft-certified-azure-developer-associate-swapnil-kulkarni-1f/)
-* [AZ-900 Azure Fundamentals - Understanding the Azure Core Concepts | LinkedIn](https://www.linkedin.com/pulse/az-900-azure-fundamentals-understanding-core-swapnil-kulkarni/)
-* [AZ 900 Azure Fundamental and Architectural Concepts | LinkedIn](https://www.linkedin.com/pulse/az-900-azure-fundamental-architectural-concepts-swapnil-kulkarni/)
+* [Microsoft Certified Azure Fundamentals](https://www.linkedin.com/pulse/microsoft-certified-azure-fundamentals-swapnil-kulkarni/)
+* [Microsoft Certified Azure Administrator Associate](https://www.linkedin.com/pulse/microsoft-certified-azure-administrator-associate-swapnil-kulkarni/)
+* [Microsoft Certified Azure Developer Associate](https://www.linkedin.com/pulse/microsoft-certified-azure-developer-associate-swapnil-kulkarni-1f/)
+* [AZ-900 Azure Fundamentals - Understanding the Azure Core Concepts](https://www.linkedin.com/pulse/az-900-azure-fundamentals-understanding-core-swapnil-kulkarni/)
+* [AZ 900 Azure Fundamental and Architectural Concepts](https://www.linkedin.com/pulse/az-900-azure-fundamental-architectural-concepts-swapnil-kulkarni/)
 
 ### Reading List
 
 * [Azure Boards Summer Update - Azure DevOps Blog (microsoft.com)](https://devblogs.microsoft.com/devops/azure-boards-summer-update-2/)
-* [What is desktop as a service (DaaS) and how can it help your organization? | Azure Blog and Updates | Microsoft Azure](https://azure.microsoft.com/en-us/blog/what-is-desktop-as-a-service-daas-and-how-can-it-help-your-organization/)
+* [What is desktop as a service (DaaS) and how can it help your organization? Azure Blog and Updates Microsoft Azure](https://azure.microsoft.com/en-us/blog/what-is-desktop-as-a-service-daas-and-how-can-it-help-your-organization/)
 
 ### References
 
