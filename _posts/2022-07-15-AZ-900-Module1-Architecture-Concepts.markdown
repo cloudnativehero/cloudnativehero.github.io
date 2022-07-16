@@ -47,4 +47,4 @@ Last Post - [Understanding the Azure Core Concepts](https://cloudnativehero.git
 
 Next Post - TBD
 
-[**LinkedIn**](https://www.linkedin.com/company/cloudnativehero/) | [**Twitter**](https://twitter.com/cloudnativehero) | [**GitHub**](https://github.com/cloudnativehero/AZ-104-Prep) | [**Blog**](https://cloudnativehero.github.io/blog/)
+[**LinkedIn**](https://www.linkedin.com/company/cloudnativehero/) | [**Twitter**](https://twitter.com/cloudnativehero) | [**GitHub**](https://github.com/cloudnativehero/AZ-900-Prep) | [**Blog**](https://cloudnativehero.github.io/blog/)

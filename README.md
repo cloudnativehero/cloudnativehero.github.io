@@ -1,4 +1,5 @@
 # List of Published Blogs
+- [Cloud Native Hero Newsletter Weekly Digest (Week 1 - July 11 - July 15)](https://cloudnativehero.github.io/blog/cloud-native-hero-weekly-digest-week-1)
 - [AZ 900 Azure Fundamental & Architectural Concepts](https://cloudnativehero.github.io/blog/AZ-900-Azure-Fundamental-And-Architectural-Concepts)
 - [Understanding the Azure Core Concepts](https://cloudnativehero.github.io/blog/AZ-900-Understanding-the-Azure-Core-Concepts)
 - [Microsoft Certified Azure Developer Associate Getting Started](https://cloudnativehero.github.io/blog/Microsoft-Certified-Azure-Developer-Getting-Started)
