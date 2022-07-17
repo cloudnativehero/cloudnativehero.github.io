@@ -3,6 +3,8 @@ layout: default
 ---
 
 <div class="home">
+  {% if site.google_ad_client %}{% include google_adsense.html %}{% endif %} 
+  {% if site.google_tracking %}{% include google_analytics.html %}{% endif %}
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
