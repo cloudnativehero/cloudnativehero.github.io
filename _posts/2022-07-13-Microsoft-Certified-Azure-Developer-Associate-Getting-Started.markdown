@@ -26,8 +26,8 @@ Refer to the [study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/bi
 
 Happy Learning!
 
-Last Post - Next Post - [Microsoft Certified Azure Administrator Associate Getting Started](https://cloudnativehero.github.io/blog/Microsoft-Certified-Azure-Administrator-Getting-Started)
+Last Post - Next Post - [Microsoft Certified Azure Administrator Associate Getting Started](https://cloudnativehero.github.io/Microsoft-Certified-Azure-Administrator-Getting-Started)
 
-Next Post - [Understanding the Azure Core Concepts](https://cloudnativehero.github.io/blog/AZ-900-Understanding-the-Azure-Core-Concepts)
+Next Post - [Understanding the Azure Core Concepts](https://cloudnativehero.github.io/AZ-900-Understanding-the-Azure-Core-Concepts)
 
-[LinkedIn](https://www.linkedin.com/company/cloudnativehero/) | [Twitter](https://twitter.com/cloudnativehero) | [GitHub](https://github.com/cloudnativehero/AZ-204-Prep) | [Blog](https://cloudnativehero.github.io/blog/)
+[LinkedIn](https://www.linkedin.com/company/cloudnativehero/) | [Twitter](https://twitter.com/cloudnativehero) | [GitHub](https://github.com/cloudnativehero/AZ-204-Prep) | [Blog](https://cloudnativehero.github.io/)

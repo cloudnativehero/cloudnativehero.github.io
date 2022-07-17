@@ -25,6 +25,6 @@ Happy Learning!
 
 Last Post - None
 
-Next Post - [Microsoft Certified Azure Administrator Associate Getting Started](https://cloudnativehero.github.io/blog/Microsoft-Certified-Azure-Administrator-Getting-Started)
+Next Post - [Microsoft Certified Azure Administrator Associate Getting Started](https://cloudnativehero.github.io/Microsoft-Certified-Azure-Administrator-Getting-Started)
 
-[LinkedIn](https://www.linkedin.com/company/cloudnativehero/) | [Twitter](https://twitter.com/cloudnativehero) | [GitHub](https://github.com/cloudnativehero/AZ-900-Prep) | [Blog](https://cloudnativehero.github.io/blog/)
+[LinkedIn](https://www.linkedin.com/company/cloudnativehero/) | [Twitter](https://twitter.com/cloudnativehero) | [GitHub](https://github.com/cloudnativehero/AZ-900-Prep) | [Blog](https://cloudnativehero.github.io/)

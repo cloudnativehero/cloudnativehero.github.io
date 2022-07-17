@@ -43,8 +43,8 @@ Unit 6, will have a [Knowledge Check](https://docs.microsoft.com/en-us/learn/mod
 
 Hope you find the resources useful for getting started with your AZ 900 preparation. Happy Learning!
 
-Last Post - [Understanding the Azure Core Concepts](https://cloudnativehero.github.io/blog/AZ-900-Understanding-the-Azure-Core-Concepts)
+Last Post - [Understanding the Azure Core Concepts](https://cloudnativehero.github.io/AZ-900-Understanding-the-Azure-Core-Concepts)
 
 Next Post - TBD
 
-[**LinkedIn**](https://www.linkedin.com/company/cloudnativehero/) | [**Twitter**](https://twitter.com/cloudnativehero) | [**GitHub**](https://github.com/cloudnativehero/AZ-900-Prep) | [**Blog**](https://cloudnativehero.github.io/blog/)
+[**LinkedIn**](https://www.linkedin.com/company/cloudnativehero/) | [**Twitter**](https://twitter.com/cloudnativehero) | [**GitHub**](https://github.com/cloudnativehero/AZ-900-Prep) | [**Blog**](https://cloudnativehero.github.io/)

@@ -28,8 +28,8 @@ Refer to the [study guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/bi
 
 Happy Learning!
 
-Last Post - [Microsoft Certified Azure Fundamentals Getting Started](https://cloudnativehero.github.io/blog/Microsoft-Certified-Azure-Fundamentals-Getting-Started)
+Last Post - [Microsoft Certified Azure Fundamentals Getting Started](https://cloudnativehero.github.io/Microsoft-Certified-Azure-Fundamentals-Getting-Started)
 
-Next Post - [Microsoft Certified Azure Developer Associate Getting Started](https://cloudnativehero.github.io/blog/Microsoft-Certified-Azure-Developer-Getting-Started)
+Next Post - [Microsoft Certified Azure Developer Associate Getting Started](https://cloudnativehero.github.io/Microsoft-Certified-Azure-Developer-Getting-Started)
 
-[LinkedIn](https://www.linkedin.com/company/cloudnativehero/) | [Twitter](https://twitter.com/cloudnativehero) | [GitHub](https://github.com/cloudnativehero/AZ-104-Prep) | [Blog](https://cloudnativehero.github.io/blog/)
+[LinkedIn](https://www.linkedin.com/company/cloudnativehero/) | [Twitter](https://twitter.com/cloudnativehero) | [GitHub](https://github.com/cloudnativehero/AZ-104-Prep) | [Blog](https://cloudnativehero.github.io/)

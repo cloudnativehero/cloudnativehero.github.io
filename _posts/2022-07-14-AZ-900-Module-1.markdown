@@ -32,8 +32,8 @@ Hope you find the resources useful for getting started with your AZ 900 preparat
 
 Happy Learning!
 
-Last Post - [Microsoft Certified Azure Developer Associate Getting Started](https://cloudnativehero.github.io/blog/Microsoft-Certified-Azure-Developer-Getting-Started)
+Last Post - [Microsoft Certified Azure Developer Associate Getting Started](https://cloudnativehero.github.io/Microsoft-Certified-Azure-Developer-Getting-Started)
 
-Next Post - [AZ 900 Azure Fundamental & Architectural Concepts](https://cloudnativehero.github.io/blog/AZ-900-Azure-Fundamental-And-Architectural-Concepts)
+Next Post - [AZ 900 Azure Fundamental & Architectural Concepts](https://cloudnativehero.github.io/AZ-900-Azure-Fundamental-And-Architectural-Concepts)
 
-[**LinkedIn**](https://www.linkedin.com/company/cloudnativehero/) | [**Twitter**](https://twitter.com/cloudnativehero) | [**GitHub**](https://github.com/cloudnativehero/AZ-900-Prep) | [**Blog**](https://cloudnativehero.github.io/blog/)
+[**LinkedIn**](https://www.linkedin.com/company/cloudnativehero/) | [**Twitter**](https://twitter.com/cloudnativehero) | [**GitHub**](https://github.com/cloudnativehero/AZ-900-Prep) | [**Blog**](https://cloudnativehero.github.io/)

@@ -19,7 +19,7 @@ permalink: /cloud-native-hero-weekly-digest-week-1
 ### Reading List
 
 * [Azure Boards Summer Update - Azure DevOps Blog (microsoft.com)](https://devblogs.microsoft.com/devops/azure-boards-summer-update-2/)
-* [What is desktop as a service (DaaS) and how can it help your organization? Azure Blog and Updates Microsoft Azure](https://azure.microsoft.com/en-us/blog/what-is-desktop-as-a-service-daas-and-how-can-it-help-your-organization/)
+* [What is desktop as a service (DaaS) and how can it help your organization? Azure Blog and Updates Microsoft Azure](https://azure.microsoft.com/en-us/what-is-desktop-as-a-service-daas-and-how-can-it-help-your-organization/)
 
 ### References
 
@@ -42,4 +42,4 @@ permalink: /cloud-native-hero-weekly-digest-week-1
 
 Subscribe to the [Cloud Native Hero!](https://www.linkedin.com/newsletters/cloud-native-hero-6940180331832446978/) newsletter for regular updates
 
-[**LinkedIn**](https://www.linkedin.com/company/cloudnativehero/) | [**Twitter**](https://twitter.com/cloudnativehero) | [**GitHub**](https://github.com/cloudnativehero) | [**Blog**](https://cloudnativehero.github.io/blog/)
+[**LinkedIn**](https://www.linkedin.com/company/cloudnativehero/) | [**Twitter**](https://twitter.com/cloudnativehero) | [**GitHub**](https://github.com/cloudnativehero) | [**Blog**](https://cloudnativehero.github.io/)
