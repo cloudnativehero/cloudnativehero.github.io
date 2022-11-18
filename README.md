@@ -1,4 +1,6 @@
 # List of Published Blogs
+- [Cloud Native Hero Newsletter Weekly Digest - Nov 19](https://cloudnativehero.github.io/cloud-native-hero-weekly-digest-nov-19-2022)
+- [Cloud Native Hero Newsletter Weekly DevSecOps Edition - Nov 18](https://cloudnativehero.github.io/cloud-native-hero-weekly-devsecops-edition-nov-18-2022)
 - [Cloud Native Hero Newsletter Weekly Security Edition - Nov 17](https://cloudnativehero.github.io/cloud-native-hero-weekly-security-edition-nov-17-2022)
 - [Cloud Native Hero Newsletter Weekly Developer Edition - Nov 16](https://cloudnativehero.github.io/cloud-native-hero-weekly-developer-edition-nov-16-2022)
 - [Cloud Native Hero Newsletter Weekly Learning Edition - Nov 15](https://cloudnativehero.github.io/cloud-native-hero-weekly-learning-edition-nov-15-2022)
