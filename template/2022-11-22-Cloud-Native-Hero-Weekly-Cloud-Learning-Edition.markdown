@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cloud Native Hero Newsletter Weekly Learning Edition - Nov 22"
-date:   2022-11-22 00:00:00 +0530
+date:   2022-11-22 23:00:00 +0530
 categories: learning digest
 author: coolsvap
 permalink: /cloud-native-hero-weekly-learning-edition-nov-22-2022

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cloud Native Hero Newsletter Weekly Security Edition - Nov 24"
-date:   2022-11-24 16:00:00 +0530
+date:   2022-11-24 23:00:00 +0530
 categories: security digest
 author: coolsvap
 permalink: /cloud-native-hero-weekly-security-edition-nov-24-2022
