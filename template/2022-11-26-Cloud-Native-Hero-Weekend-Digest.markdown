@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cloud Native Hero Newsletter Weekly Digest - Nov 26"
-date:   2022-11-26 16:00:00 +0530
+date:   2022-11-26 23:00:00 +0530
 categories:  digest
 author: coolsvap
 permalink: /cloud-native-hero-weekly-digest-nov-26-2022
