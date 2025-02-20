@@ -1,4 +1,10 @@
 # List of Published Blogs
+
+## Complete OpenTelemetry Blog Series
+- [OpenTelemetry Series #1 A Beginner’s Guide](https://cloudnativehero.github.io/cloud-native-hero-opentelemetry-blog-series-001-beginners-guide)
+- [Cloud Native Hero Newsletter -OpenTelemetry vs. Traditional Monitoring: What’s the Difference?](https://cloudnativehero.github.io/cloud-native-hero-opentelemetry-blog-series-002-difference-traditional-monitoring)
+
+## Blogs
 - [Cloud Native Hero Newsletter Weekly Learning Edition - Nov 22](https://cloudnativehero.github.io/cloud-native-hero-weekly-learning-edition-nov-22-2022)
 - [Cloud Native Hero Newsletter Weekly Architecture Edition - Nov 21](https://cloudnativehero.github.io/cloud-native-hero-weekly-architecture-edition-nov-21-2022)
 - [Cloud Native Hero Newsletter Weekly Digest - Nov 19](https://cloudnativehero.github.io/cloud-native-hero-weekly-digest-nov-19-2022)
