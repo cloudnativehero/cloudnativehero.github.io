@@ -181,6 +181,8 @@ By adopting OpenTelemetry, teams can make data-driven decisions, enhance applica
 
 ---
 Subscribe to the [Cloud Native Hero! Newsletter](https://www.linkedin.com/newsletters/6940180331832446978/) for regular updates.
+
 Join the [Observability India LinkedIn Group] (https://www.linkedin.com/groups/9899111/)
 
+---
 [**LinkedIn**](https://www.linkedin.com/company/cloudnativehero/) | [**Twitter**](https://twitter.com/cloudnativehero) | [**GitHub**](https://github.com/cloudnativehero) | [**Blog**](https://cloudnativehero.github.io/)
