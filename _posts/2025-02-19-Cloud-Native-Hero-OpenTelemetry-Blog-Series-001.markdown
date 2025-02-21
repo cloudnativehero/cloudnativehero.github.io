@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cloud Native Hero Newsletter - OpenTelemetry Series #1 A Beginner’s Guide"
-date:   2024-05-01 00:00:00 +0530
+date:   2025-02-19 00:00:00 +0530
 categories:  observability opentelemetry guide
 author: coolsvap
 permalink: /cloud-native-hero-opentelemetry-blog-series-001-beginners-guide
@@ -179,6 +179,10 @@ OpenTelemetry simplifies observability by **standardizing how applications colle
 
 By adopting OpenTelemetry, teams can make data-driven decisions, enhance application monitoring, and reduce downtime, ensuring a seamless user experience. If you haven’t explored OpenTelemetry yet, now is the perfect time to start!
 
+## Complete OpenTelemetry Blog Series
+- [OpenTelemetry Series #1 A Beginner’s Guide](https://cloudnativehero.github.io/cloud-native-hero-opentelemetry-blog-series-001-beginners-guide)
+- [Cloud Native Hero Newsletter -OpenTelemetry vs. Traditional Monitoring: What’s the Difference?](https://cloudnativehero.github.io/cloud-native-hero-opentelemetry-blog-series-002-difference-traditional-monitoring)
+- 
 ---
 Subscribe to the [Cloud Native Hero! Newsletter](https://www.linkedin.com/newsletters/6940180331832446978/) for regular updates.
 
