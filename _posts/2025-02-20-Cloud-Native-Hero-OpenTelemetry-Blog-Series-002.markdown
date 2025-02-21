@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cloud Native Hero Newsletter -OpenTelemetry vs. Traditional Monitoring: What’s the Difference? "
-date:   2024-05-01 00:00:00 +0530
+date:   2025-02-20 00:00:00 +0530
 categories:  observability opentelemetry 
 author: coolsvap
 permalink: /cloud-native-hero-opentelemetry-blog-series-002-difference-traditional-monitoring
@@ -101,8 +101,9 @@ While OpenTelemetry excels in modern environments, traditional monitoring tools 
 By adopting OpenTelemetry, teams gain **full visibility** into their applications, streamline troubleshooting, and make informed decisions based on unified observability data.
 
 ## Complete OpenTelemetry Blog Series
-- [OpenTelemetry Series #1 A Beginner’s Guide](https://cloudnativehero.github.io/cloud-native-hero-opentelemetry-blog-series-001-beginners-guide)
-- [Cloud Native Hero Newsletter -OpenTelemetry vs. Traditional Monitoring: What’s the Difference?](https://cloudnativehero.github.io/cloud-native-hero-opentelemetry-blog-series-002-difference-traditional-monitoring)
+- [OpenTelemetry Series #1 - A Beginner’s Guide](https://cloudnativehero.github.io/cloud-native-hero-opentelemetry-blog-series-001-beginners-guide)
+- [OpenTelemetry Series #2 - OpenTelemetry vs. Traditional Monitoring: What’s the Difference?](https://cloudnativehero.github.io/cloud-native-hero-opentelemetry-blog-series-002-difference-traditional-monitoring)
+- [OpenTelemetry Series #3 - The Three Pillars of Observability in OpenTelemetry](https://cloudnativehero.github.io/cloud-native-hero-opentelemetry-blog-series-003-three-pillars-of-opentelemetry)
 
 ---
 Subscribe to the [Cloud Native Hero! Newsletter](https://www.linkedin.com/newsletters/6940180331832446978/) for regular updates.
