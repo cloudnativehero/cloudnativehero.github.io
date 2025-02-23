@@ -180,9 +180,13 @@ OpenTelemetry simplifies observability by **standardizing how applications colle
 By adopting OpenTelemetry, teams can make data-driven decisions, enhance application monitoring, and reduce downtime, ensuring a seamless user experience. If you haven’t explored OpenTelemetry yet, now is the perfect time to start!
 
 ## Complete OpenTelemetry Blog Series
-- [OpenTelemetry Series #1 A Beginner’s Guide](https://cloudnativehero.github.io/cloud-native-hero-opentelemetry-blog-series-001-beginners-guide)
-- [Cloud Native Hero Newsletter -OpenTelemetry vs. Traditional Monitoring: What’s the Difference?](https://cloudnativehero.github.io/cloud-native-hero-opentelemetry-blog-series-002-difference-traditional-monitoring)
-- 
+- [OpenTelemetry Series #1 - A Beginner’s Guide](https://cloudnativehero.github.io/cloud-native-hero-opentelemetry-blog-series-001-beginners-guide)
+- [OpenTelemetry Series #2 - OpenTelemetry vs. Traditional Monitoring: What’s the Difference?](https://cloudnativehero.github.io/cloud-native-hero-opentelemetry-blog-series-002-difference-traditional-monitoring)
+- [OpenTelemetry Series #3 - The Three Pillars of Observability in OpenTelemetry](https://cloudnativehero.github.io/cloud-native-hero-opentelemetry-blog-series-003-three-pillars-of-opentelemetry)
+- [OpenTelemetry Series #4 - Why Developers Should Care About OpenTelemetry](https://cloudnativehero.github.io/cloud-native-hero-opentelemetry-blog-series-004-why-opentelemetry)
+- [OpenTelemetry Series #4 - How to Set Up OpenTelemetry in Your Application](https://cloudnativehero.github.io/cloud-native-hero-opentelemetry-blog-series-005-setup-opentelemetry)
+
+
 ---
 Subscribe to the [Cloud Native Hero! Newsletter](https://www.linkedin.com/newsletters/6940180331832446978/) for regular updates.
 
