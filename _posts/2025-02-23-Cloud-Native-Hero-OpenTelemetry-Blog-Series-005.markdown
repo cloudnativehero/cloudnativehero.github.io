@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cloud Native Hero Newsletter -  How to Set Up OpenTelemetry in Your Application to Send Data to the Otel Collector on Kubernet"
+title:  "Cloud Native Hero Newsletter -  How to Set Up OpenTelemetry in Your Application"
 date:   2025-02-23 00:00:00 +0530
 categories:  observability opentelemetry 
 author: coolsvap
