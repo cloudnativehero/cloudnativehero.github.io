@@ -2,7 +2,7 @@
 
 layout: post
 title: "Kubernetes Explained: A Beginner’s Guide to the CNCF Powerhouse"
-categories:  observability opentelemetry 
+categories:  Kubernetes, CNCF, Cloud Native, Container Orchestration, DevOps, Kubernetes Tutorial
 description: "Learn what Kubernetes is, why it matters, and how it powers the cloud-native world. Get started with hands-on tips, real-world use cases, and key architectural insights."
 tags: [Kubernetes, CNCF, Cloud Native, Container Orchestration, DevOps, Kubernetes Tutorial]
 date: 2025-05-06
