@@ -138,9 +138,16 @@ Prefer a managed solution? Check out:
 
 Kubernetes is more than a buzzword it's a powerful platform that has redefined how software runs at scale. Whether you're deploying microservices, building ML pipelines, or managing hybrid infrastructure, Kubernetes provides the tools and abstraction you need.
 
-Stay tuned for **Day 2** of this series where we explore **Prometheus**, the gold standard for monitoring Kubernetes environments.
-
 ---
 
 **Did you enjoy this post?**  
 Subscribe for daily insights as we continue exploring the CNCF landscape one tool at a time.
+
+---
+Subscribe to the [Cloud Native Hero! Newsletter](https://www.linkedin.com/newsletters/6940180331832446978/) for regular updates.
+
+Join the [Observability India LinkedIn Group] (https://www.linkedin.com/groups/9899111/)
+
+---
+[**LinkedIn**](https://www.linkedin.com/company/cloudnativehero/) | [**Twitter**](https://twitter.com/cloudnativehero) | [**GitHub**](https://github.com/cloudnativehero) | [**Blog**](https://cloudnativehero.github.io/)
+
