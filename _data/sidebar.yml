@@ -1,0 +1,42 @@
+- title: Home
+  url: /
+  output: web
+
+- title: Blog
+  url: /blog/
+  output: web
+
+- title: Categories
+  url: /categories/
+  output: web
+
+- title: About
+  url: /about/
+  output: web
+
+- title: Cloud Native
+  folderitems:
+    - title: Kubernetes
+      url: /kubernetes/
+      output: web
+    - title: OpenTelemetry
+      url: /opentelemetry/
+      output: web
+    - title: Observability
+      url: /observability/
+      output: web
+    - title: DevSecOps
+      url: /devsecops/
+      output: web
+
+- title: Cloud Learning
+  folderitems:
+    - title: Azure
+      url: /azure/
+      output: web
+    - title: Certifications
+      url: /certifications/
+      output: web
+    - title: Architecture
+      url: /architecture/
+      output: web 
